@@ -73,7 +73,3 @@ Hello    2
 ```
 - use the same parameter as the step 2
 
-##### 4. run hadoop cluster 
-
-do 5~6 like section A
-
